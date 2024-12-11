@@ -11,8 +11,9 @@ org.apache.clusterbr.zupportl5.enums
 org.apache.clusterbr.zupportl5.exception
 org.apache.clusterbr.zupportl5.generic
 org.apache.clusterbr.zupportl5.interceptor
+org.apache.clusterbr.zupportl5.mapper
 org.apache.clusterbr.zupportl5.processor
 org.apache.clusterbr.zupportl5.repository
 org.apache.clusterbr.zupportl5.service
-org.apache.clusterbr.zupportl5.service.batch
+org.apache.clusterbr.zupportl5.service.dropbox
 org.apache.clusterbr.zupportl5.utils
